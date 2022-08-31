@@ -3,7 +3,9 @@
 The code using OpenCV and a pretrained model to detect faces and blurr them. It can be highly effective for blurring images and video streams using this code.  There are alot of applications where this code can be used. A Special Thanks to Adrian from PyImageSearch due to his blog posts I was able to set this up.
 
 ## Demo 
-![]()
+![](https://github.com/arkalsekar/Face-Blurring-OpenCV/blob/main/test/image_4.png?raw=True)
+![](https://github.com/arkalsekar/Face-Blurring-OpenCV/blob/main/test/image_5.png?raw=True)
+![](https://github.com/arkalsekar/Face-Blurring-OpenCV/blob/main/test/image_6.png?raw=True)
 
 
 ## Installation
