@@ -4,9 +4,11 @@ The code using OpenCV and a pretrained model to detect faces and blurr them. It 
 
 ## Demo 
 ![](https://github.com/arkalsekar/Face-Blurring-OpenCV/blob/main/test/image_4.png?raw=True)
+<br>
 ![](https://github.com/arkalsekar/Face-Blurring-OpenCV/blob/main/test/image_5.png?raw=True)
+<br>
 ![](https://github.com/arkalsekar/Face-Blurring-OpenCV/blob/main/test/image_6.png?raw=True)
-
+<br>
 
 ## Installation
 
